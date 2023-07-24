@@ -15,6 +15,7 @@ module.exports = {
         dark: "#191825",
         kuning: "#FACD49",
         grey: "#19182580",
+        orenmuda: "#FACD4914",
       },
     },
     screens: {
